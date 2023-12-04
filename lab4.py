@@ -10,7 +10,7 @@ print(myFruitList)
 #tupla - lista imutavel
 
 myFinalAnswerTuple = ("apple", "banana", "pineapple")
-print(myFinalAnswerTuple)
+print(myFinalAnswerTuple)         
 print(type(myFinalAnswerTuple))
 print(myFinalAnswerTuple[0]) #substitua por 1,2 e verifique
 
